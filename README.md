@@ -1,5 +1,5 @@
 # utagedec
-A simple decrypter for utage encrypted files (.utage)
+A simple decryptor for utage encrypted files (.utage)
 
 ### Usage
 `utagedec <input_file>|<input_dir> [<output_dir>] [-k <decryption_key>]`

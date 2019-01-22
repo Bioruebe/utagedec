@@ -13,7 +13,7 @@ class Main {
 	private static var files:Array<String>;
 	
 	static function main() {
-		Bio.Header("utagedec", "1.0.0", "A simple decrypter for utage encrypted files (.utage)", "<input_file>|<input_dir> [<output_dir>] [-k <decrytion_key>]");
+		Bio.Header("utagedec", "1.0.0", "2017", "A simple decrypter for utage encrypted files (.utage)", "<input_file>|<input_dir> [<output_dir>] [-k <decrytion_key>]");
 		Bio.Seperator();
 		
 		var args = Sys.args();
